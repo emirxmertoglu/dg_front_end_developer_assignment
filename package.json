@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bruteforce": "^0.0.2",
+    "md5": "^2.3.0"
+  }
+}
